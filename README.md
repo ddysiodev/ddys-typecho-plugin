@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-Official Typecho plugin for the [DDYS](https://ddys.io/) Open API.
+Official Typecho plugin for the [DDYS](https://ddys.io/) API.
 
 It lets Typecho site owners embed DDYS content in posts, pages, and themes with shortcodes, caching, diagnostics, and a configurable API base URL.
 
@@ -24,7 +24,7 @@ It lets Typecho site owners embed DDYS content in posts, pages, and themes with 
 1. Copy `DdysOpen` to `usr/plugins/DdysOpen`.
 2. Open Typecho admin, then activate `DdysOpen`.
 3. Open the plugin settings and confirm the API Base URL.
-4. Use the DDYS Open panel to generate shortcodes.
+4. Use the DDYS panel to generate shortcodes.
 5. Add shortcodes to posts or pages.
 
 ## Shortcodes

@@ -19,7 +19,7 @@ require_once __DIR__ . '/src/Admin.php';
 require_once __DIR__ . '/Action.php';
 
 /**
- * DDYS Open API integration for Typecho.
+ * DDYS API integration for Typecho.
  *
  * @package DdysOpen
  * @author DDYS

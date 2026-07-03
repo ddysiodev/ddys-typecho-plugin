@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-[低端影视](https://ddys.io/) Open API 的官方 Typecho 插件。
+[低端影视](https://ddys.io/) API 的官方 Typecho 插件。
 
 站长安装后，可以在 Typecho 文章、页面和主题模板里直接嵌入 DDYS 内容，并且支持缓存、诊断、短代码生成器和自定义 API Base URL。
 
@@ -24,7 +24,7 @@
 1. 将 `DdysOpen` 目录复制到 `usr/plugins/DdysOpen`。
 2. 进入 Typecho 后台，启用 `DdysOpen` 插件。
 3. 打开插件设置，确认 API Base URL。
-4. 在 DDYS Open 面板生成短代码。
+4. 在 DDYS 面板生成短代码。
 5. 将短代码加入文章或页面。
 
 ## 短代码
